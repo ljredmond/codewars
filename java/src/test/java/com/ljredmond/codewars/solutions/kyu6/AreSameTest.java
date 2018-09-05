@@ -62,7 +62,7 @@ public class AreSameTest {
   @Test
   public void longerFalse() {
 
-    assertEquals(true, comp(new int[]{121, 144, 19, 161, 19, 144, 19, 11}, new int[]{132, 14641, 20736, 361, 25921, 361, 20736, 361}));
+    assertEquals(false, comp(new int[]{121, 144, 19, 161, 19, 144, 19, 11}, new int[]{132, 14641, 20736, 361, 25921, 361, 20736, 361}));
   }
 
   @Test
