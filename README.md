@@ -1,7 +1,5 @@
-# Codewars Solutions [![CircleCI](https://circleci.com/gh/ljredmond/codewars.svg?style=svg)](https://circleci.com/gh/ljredmond/codewars)
+# Codewars Solutions [![Build Status](https://travis-ci.com/ljredmond/codewars.svg?branch=master)](https://travis-ci.com/ljredmond/codewars)
 
-### My Profile
-https://www.codewars.com/users/ljredmond
-
-### Status
 ![Status](https://www.codewars.com/users/ljredmond/badges/large)
+
+https://www.codewars.com/users/ljredmond
